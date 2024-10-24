@@ -1,6 +1,8 @@
-# Demos
+[Demos](README.md) | [Portfolio](PORTFOLIO.md)
 
-- [Demos](#demos)
+# DEMOS
+
+- [DEMOS](#demos)
   - [Proprietary examples with descriptions:](#proprietary-examples-with-descriptions)
     - [Bulk Order plugin](#bulk-order-plugin)
     - [Qala VAT Switcher](#qala-vat-switcher)
