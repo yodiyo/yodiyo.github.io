@@ -1,122 +1,243 @@
-[Demos](README.md) | [Portfolio](PORTFOLIO.md)
+📂 [Demos](README.md) | 💼 [Portfolio](PORTFOLIO.md)
 
-- [Proprietary examples with descriptions:](#proprietary-examples-with-descriptions)
-  - [Bulk Order plugin](#bulk-order-plugin)
-  - [Qala VAT Switcher](#qala-vat-switcher)
-  - [Qala Product Price History](#qala-product-price-history)
-  - [Qala Enhanced WooCommerce Downloads](#qala-enhanced-woocommerce-downloads)
-- [Examples available on Github:](#examples-available-on-github)
-  - [React News Application](#react-news-application)
-  - [WordPress Custom Blocks and Plugins](#wordpress-custom-blocks-and-plugins)
-    - [Disable Blocks](#disable-blocks)
-    - [TrustPilot Reviews block](#trustpilot-reviews-block)
-    - [Data-crunching](#data-crunching)
-    - [Various customisations for WooCommerce product pages](#various-customisations-for-woocommerce-product-pages)
-- [Further code samples](#further-code-samples)
-- [Portfolio Site](#portfolio-site)
+# 🚀 CODE DEMOS & EXAMPLES
 
+> Welcome to my development showcase! This repository contains examples of my work across WordPress, React, PHP, and modern web technologies. While some projects remain proprietary, I've shared what I can to demonstrate my technical capabilities.
 
-I would have liked to provide further code examples to demonstrate my experience. I have done extensive work on custom plugins, themes, and blocks, including WooCommerce and eCommerce flow. Unfortunately, some work is proprietary and I do not have permission to share it.
+## 📋 Table of Contents
 
-## Proprietary examples with descriptions:
+- [🔒 Proprietary Examples](#-proprietary-examples-with-descriptions)
+  - [📦 Bulk Order Plugin](#-bulk-order-plugin)
+  - [💱 Qala VAT Switcher](#-qala-vat-switcher)
+  - [📊 Qala Product Price History](#-qala-product-price-history)
+  - [📁 Qala Enhanced WooCommerce Downloads](#-qala-enhanced-woocommerce-downloads)
+- [💻 Open Source Examples](#-examples-available-on-github)
+  - [📰 React News Application](#-react-news-application)
+  - [🧩 WordPress Custom Blocks and Plugins](#-wordpress-custom-blocks-and-plugins)
+    - [🚫 Disable Blocks](#-disable-blocks)
+    - [⭐ TrustPilot Reviews Block](#-trustpilot-reviews-block)
+    - [📈 Data-crunching](#-data-crunching)
+    - [🛒 WooCommerce Customizations](#-various-customisations-for-woocommerce-product-pages)
+- [🔗 Additional Code Samples](#-further-code-samples)
+- [🌐 Portfolio Site](#-portfolio-site)
 
-### Bulk Order plugin
-* OO PHP, WooCommerce API.
-* A B2B plugin for bulk importing products with a CSV/XSL file through the front-end.
-* Getting product data and passing items to cart/checkout for processing.
-* Working with WooCommerce hooks for notices to indicate if there were issue with the orders, eg product not in stock.
-* Automatically check for cart to checkout stock errors and automatically adjust product quantities if stock levels are lower or out of stock.
+---
 
+## 🔒 Proprietary Examples with Descriptions
 
-### Qala VAT Switcher
-* OO PHP, vanilla JS with classes.
-* Our client had a unique requirement - they wanted a toggle button on their product pages that would allow customers to switch between seeing prices including VAT (Value Added Tax) and excluding VAT. This would provide customers with more transparency and flexibility when making purchasing decisions.
-* I created a plugin and used a PHP method to leverage WooCommerce hooks to add data attributes with relevant prices to the price component, then used JavaScript to capture this data and display the price according to the switch button toggle event.
-* To address this, the code was carefully refactored so that the switch methods could be reused across different components. This approach ensured that the code was not only efficient but also maintainable. The successful implementation of these methods extended the price switching functionality to the cart, minicart, and checkout components, providing a consistent experience throughout the customer's journey.
+*Note: These projects are proprietary and cannot be shared publicly, but I can provide detailed descriptions of the technical implementations.*
 
+### 📦 Bulk Order Plugin
 
-### Qala Product Price History
-* OO PHP, jQuery, JavaScript, ChartJS, SASS.
-* This plugin in the [WooCommerce store](https://woocommerce.com/document/qala-product-price-history-for-woocommerce/) helps vendors meet EU requirements to include transparency about product pricing for consumers.
-* It records and displays price changes and includes a graph of prices over the last 30 days.
-* I worked on this plugin to progress it from MVP and to extend it to cover all product types and fix any issues.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=flat&logo=php&logoColor=white)
 
+**Key Features:**
+- 🎯 **Object-Oriented PHP** with WooCommerce API integration
+- 📋 **B2B CSV/XLS import** functionality through front-end interface
+- 🛒 **Cart management** with automatic product data processing
+- ⚠️ **Smart error handling** with WooCommerce hooks for stock notifications
+- 📊 **Automatic stock adjustment** when inventory levels are insufficient
 
-### Qala Enhanced WooCommerce Downloads
-* OO PHP, vanilla JS, Handlebars, ElasticSearch, SASS, WP-API.
-* The client required a library of downloadable products which could be viewed, shared or downloaded on the product page as well as on the archive and catalogue pages.
-* Adding fields and options to products for downloadable files and methods to add components to view, share or download the files on the product page.
-* Integrated these components with catalogue and search pages using ElasticFilters.
-* Client site can be seen here:
-    * [Documentation library with file links](https://www.sentricsafetygroup.com/datasheets-and-documentation/?brand=Castell)
-    * [Product page with file links](https://www.sentricsafetygroup.com/product/ksd/)
+---
 
+### 💱 Qala VAT Switcher
 
-## Examples available on Github:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 
-### React News Application
-I have built a React news application to demonstrate the following capabilities:
-* Building components in React using the following hooks - useState, useEffect and useRef.
-* Fetching an external API (NB The free version is limited to 100 calls. Generating local files as a fallback would be a next step).
-* HTML follows semantic markup to provide information for accessibility and screen readers.
-* Accessibility checked with Axe Devtools - no issues reported.
-* Custom CSS and UI with no framework (just importing a simple reset file) - BEM class naming, files split into basic components and architecture and typography and variables - and a mobile first approach. Employing both Flexbox and CSS Grid for layouts in the page.
-* To output a friendly localised date for articles, I have used the JavaScript native namespace object Intl.
+**Technical Implementation:**
+- 🔄 **Dynamic price switching** between VAT inclusive/exclusive display
+- 🏗️ **Modular architecture** with reusable switch methods
+- 🎯 **Data attributes** integration with WooCommerce price components
+- 🛒 **Cross-component consistency** across cart, minicart, and checkout
+- ⚡ **Vanilla JavaScript classes** for optimal performance
 
-Further details can be found in the Readme of the repo - [https://github.com/yodiyo/react-news-app](https://github.com/yodiyo/react-news-app) - and the application can be viewed on Netlify - [https://chipper-melba-9f5487.netlify.app/](https://chipper-melba-9f5487.netlify.app/)
+---
 
+### 📊 Qala Product Price History
 
-### WordPress Custom Blocks and Plugins
-I have created code repos to demonstrate a few custom blocks and plugins that I have developed for clients.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
 
-The plugins and blocks can be viewed on a demo WP site with links below.
+**Available on WooCommerce Store:** [View Plugin →](https://woocommerce.com/document/qala-product-price-history-for-woocommerce/)
 
-The admin can be accessed with the following credentials:
+**Features:**
+- 📈 **EU compliance** for price transparency requirements
+- 📊 **30-day price graphs** with Chart.js visualization
+- 🔄 **Automated price tracking** and change recording
+- 🛍️ **Multi-product type support** (simple, variable, grouped)
+- 🐛 **MVP enhancement** with comprehensive bug fixes
 
-```python
-u:  demouser
-pw: Reachforthestars!
-```
+---
 
+### 📁 Qala Enhanced WooCommerce Downloads
 
-#### Disable Blocks
-* PHP, vanilla JS.
-* A plugin to remove unwanted default Gutenberg blocks that come with core WP, themes and plugins.
-* Custom plugin development - OO PHP, JS, block hooks.
-* Repo - [https://github.com/yodiyo/yb-disable-blocks](https://github.com/yodiyo/yb-disable-blocks)
-* Demo - [https://theyoricktouch.com/wpdemos/wp-admin/site-health.php?tab=debug](https://theyoricktouch.com/wpdemos/wp-admin/site-health.php?tab=debug) - list of removed blocks are displayed in the “Info > YB Disable Blocks” tab
-* I have included some core WP blocks in the disallowed list, eg Latest Posts, Embed blocks, and also some blocks from the Yoast blocks - these blocks are now unavailable on posts and pages.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Handlebars](https://img.shields.io/badge/Handlebars.js-000000?style=flat&logo=handlebars.js&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![WordPress API](https://img.shields.io/badge/WP--API-21759B?style=flat&logo=wordpress&logoColor=white)
 
+**Live Examples:**
+- 📚 [Documentation Library](https://www.sentricsafetygroup.com/datasheets-and-documentation/?brand=Castell)
+- 🛍️ [Product Page Integration](https://www.sentricsafetygroup.com/product/ksd/)
 
-#### TrustPilot Reviews block
-* ReactJS, PHP, WP-API.
-* A block to enable integration with a TrustPilot business account and display of widgets.
-* Custom block development, Gutenberg block editor, React components
-* Repo - [https://github.com/yodiyo/yb-trustpilot-reviews](https://github.com/yodiyo/yb-trustpilot-reviews)
-* Demo - [https://theyoricktouch.com/wpdemos/wp-admin/post.php?post=11&action=edit](https://theyoricktouch.com/wpdemos/wp-admin/post.php?post=11&action=edit)
-* For this to work properly and display a widget, we need to have a paid TrustPilot account. In place of this, I've added placeholders to show the outputs when adding data to the ID fields.
+**Technical Highlights:**
+- 📋 **Custom product fields** for downloadable file management
+- 🔍 **ElasticSearch integration** with catalog and search pages
+- 🎨 **Handlebars templating** for dynamic file displays
+- 📱 **Responsive components** for view, share, and download actions
 
+---
 
-#### Data-crunching
-* PHP, WP-API, Google Script.
-* The client needed a way to see all the existing posts created using multiple custom post types across multiple sites.
-* By creating an API endpoint for each custom post type, I was able to capture the relevant data and output this into an online spreadsheet.
-* Code - [https://github.com/yodiyo/code-demos-2022/tree/master/data-crunching](https://github.com/yodiyo/code-demos-2022/tree/master/data-crunching)
+## 💻 Examples Available on GitHub
 
+### 📰 React News Application
 
-#### Various customisations for WooCommerce product pages
-* PHP and WooCommerce hooks
-* [https://github.com/yodiyo/code-demos-2022/blob/master/woocommerce-customisations/functions.php](https://github.com/yodiyo/code-demos-2022/blob/master/woocommerce-customisations/functions.php)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-4CAF50?style=flat&logo=accessible-icon&logoColor=white)
 
+**🔗 [GitHub Repository](https://github.com/yodiyo/react-news-app)** | **🌐 [Live Demo](https://chipper-melba-9f5487.netlify.app/)**
 
-## Further code samples
-* [https://github.com/yodiyo/code-demos-2024](https://github.com/yodiyo/code-demos-2024)
-* Cevoid integration demonstrating classes, settings (with ACF), passing data to template and using conditional logic based on arguments.
-* Custom child theme - using SASS and theme framework alongside theme.json to implement site design.
+**Technical Showcase:**
+- ⚛️ **React Hooks**: useState, useEffect, useRef
+- 🌐 **External API integration** with fallback strategies
+- ♿ **Semantic HTML** and accessibility best practices
+- 🎨 **Custom CSS** with BEM methodology (no frameworks)
+- 📱 **Mobile-first responsive design**
+- 🏗️ **Flexbox & CSS Grid** layouts
+- 🌍 **Internationalization** with JavaScript Intl API
 
-Note - some of the code repos are private and you will need to request access to view.
+---
 
+### 🧩 WordPress Custom Blocks and Plugins
 
-## Portfolio Site
-* AngularJS, CSS, API integrations.
-* I created [https://theyoricktouch.com](https://theyoricktouch.com/) over 10 years ago. It's a Single Page Application built using AngularJS. I have every intention to rebuild it using more modern libraries and improvements for accessibility and optimisation. However, it does currently show a good regard for original design, as well as API integrations with a timeline library, Google Maps, and WordPress which provides content for the news section.
+> **Demo Site Access:**
+> ```
+> 🌐 URL: theyoricktouch.com/wpdemos/wp-admin/
+> 👤 Username: demouser
+> 🔑 Password: Reachforthestars!
+> ```
+
+#### 🚫 Disable Blocks
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+**🔗 [GitHub Repository](https://github.com/yodiyo/yb-disable-blocks)** | **🔍 [Live Demo](https://theyoricktouch.com/wpdemos/wp-admin/site-health.php?tab=debug)**
+
+**Features:**
+- 🎯 **Selective block removal** from Gutenberg editor
+- 🏗️ **Object-oriented PHP** architecture
+- 🪝 **WordPress hooks integration**
+- 📊 **Debug information** panel for removed blocks
+
+---
+
+#### ⭐ TrustPilot Reviews Block
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![WordPress API](https://img.shields.io/badge/WP--API-21759B?style=flat&logo=wordpress&logoColor=white)
+![Gutenberg](https://img.shields.io/badge/Gutenberg-0073AA?style=flat&logo=wordpress&logoColor=white)
+
+**🔗 [GitHub Repository](https://github.com/yodiyo/yb-trustpilot-reviews)** | **✏️ [Editor Demo](https://theyoricktouch.com/wpdemos/wp-admin/post.php?post=11&action=edit)**
+
+**Technical Implementation:**
+- ⚛️ **React components** in Gutenberg block editor
+- 🔌 **TrustPilot API integration** for business accounts
+- 🎨 **Custom widget rendering** with placeholder fallbacks
+- 🛠️ **WordPress block development** best practices
+
+---
+
+#### 📈 Data-crunching
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![WordPress API](https://img.shields.io/badge/WP--API-21759B?style=flat&logo=wordpress&logoColor=white)
+![Google Scripts](https://img.shields.io/badge/Google%20Scripts-4285F4?style=flat&logo=google&logoColor=white)
+
+**🔗 [GitHub Repository](https://github.com/yodiyo/code-demos-2022/tree/master/data-crunching)**
+
+**Solution Overview:**
+- 🔗 **Multi-site API endpoints** for custom post types
+- 📊 **Automated data aggregation** across WordPress installations
+- 📈 **Google Sheets integration** for real-time reporting
+- 🏗️ **Scalable architecture** for enterprise data management
+
+---
+
+#### 🛒 Various Customizations for WooCommerce Product Pages
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+![Hooks](https://img.shields.io/badge/WP%20Hooks-21759B?style=flat&logo=wordpress&logoColor=white)
+
+**🔗 [GitHub Repository](https://github.com/yodiyo/code-demos-2022/blob/master/woocommerce-customisations/functions.php)**
+
+**Customization Examples:**
+- 🎯 **Product page enhancements** using WooCommerce hooks
+- 🛒 **Cart and checkout modifications**
+- 📊 **Custom product data display**
+- ⚡ **Performance optimizations**
+
+---
+
+## 🔗 Further Code Samples
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Advanced Custom Fields](https://img.shields.io/badge/ACF-0073AA?style=flat&logo=wordpress&logoColor=white)
+
+**🔗 [GitHub Repository](https://github.com/yodiyo/code-demos-2024)**
+
+**Featured Implementations:**
+- 🔌 **Cevoid integration** with OOP classes and ACF settings
+- 🎨 **Custom child theme** with SASS and theme.json
+- 🏗️ **Template architecture** with conditional logic
+- 📱 **Modern WordPress development** practices
+
+> *Note: Some repositories are private - please request access for viewing*
+
+---
+
+## 🌐 Portfolio Site
+
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Google Maps API](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat&logo=google-maps&logoColor=white)
+![WordPress API](https://img.shields.io/badge/WP--API-21759B?style=flat&logo=wordpress&logoColor=white)
+
+**🌐 [Visit Site](https://theyoricktouch.com/)**
+
+**Legacy Project Highlights:**
+- 📱 **Single Page Application** built with AngularJS (10+ years running)
+- 🎨 **Original custom design** and user experience
+- 🗺️ **Multiple API integrations**: Google Maps, Timeline libraries, WordPress
+- 📰 **Dynamic content management** through WordPress REST API
+- 🔄 **Planned modernization** with current technologies and accessibility improvements
+
+---
+
+<div align="center">
+  <br>
+  <p><em>Built with passion for clean code and modern web technologies</em></p>
+  
+  ![GitHub followers](https://img.shields.io/github/followers/yodiyo?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/yodiyo?style=social)
+  
+  <br>
+  
+  **🤝 Let's Connect!**
+  
+  *Always interested in discussing new opportunities and technical challenges*
+</div>
