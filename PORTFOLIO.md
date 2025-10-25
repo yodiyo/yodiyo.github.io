@@ -228,7 +228,7 @@ Equestrian Stockholm is an exclusive equestrian brand that combines style, quali
 
 **Project Overview**
 
-WooCommerce customisation for products and variations. Product Display Pages. Order sample search page and modals. Bundled products. Find Your Colors - custom hero block with slider for choosing colors with filters.
+WooCommerce customisation for products and variations. Product Display Pages. Order sample search page and modals. Bundled products. *"Find Your Colors"* - custom hero block with slider for choosing colours with filters.
 
 🔗 **[View Project →](https://www.timbertech.com/)**
 
@@ -345,7 +345,7 @@ Discovery Education's Spotlight on Strategies. Component template for index feat
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Localization](https://img.shields.io/badge/Localization-FFC107?style=flat&logo=translate&logoColor=black)
+![Localisation](https://img.shields.io/badge/Localisation-FFC107?style=flat&logo=translate&logoColor=black)
 ![Education](https://img.shields.io/badge/Education-8BC34A?style=flat&logo=graduation-cap&logoColor=white)
 
 <table>

@@ -6,20 +6,22 @@
 
 ## 📋 Table of Contents
 
-- [🔒 Proprietary Examples](#-proprietary-examples-with-descriptions)
-  - [📦 Bulk Order Plugin](#-bulk-order-plugin)
-  - [💱 Qala VAT Switcher](#-qala-vat-switcher)
-  - [📊 Qala Product Price History](#-qala-product-price-history)
-  - [📁 Qala Enhanced WooCommerce Downloads](#-qala-enhanced-woocommerce-downloads)
-- [💻 Open Source Examples](#-examples-available-on-github)
-  - [📰 React News Application](#-react-news-application)
-  - [🧩 WordPress Custom Blocks and Plugins](#-wordpress-custom-blocks-and-plugins)
-    - [🚫 Disable Blocks](#-disable-blocks)
-    - [⭐ TrustPilot Reviews Block](#-trustpilot-reviews-block)
-    - [📈 Data-crunching](#-data-crunching)
-    - [🛒 WooCommerce Customizations](#-various-customisations-for-woocommerce-product-pages)
-- [🔗 Additional Code Samples](#-further-code-samples)
-- [🌐 Portfolio Site](#-portfolio-site)
+- [🚀 CODE DEMOS \& EXAMPLES](#-code-demos--examples)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [🔒 Proprietary Examples with Descriptions](#-proprietary-examples-with-descriptions)
+    - [📦 Bulk Order Plugin](#-bulk-order-plugin)
+    - [💱 Qala VAT Switcher](#-qala-vat-switcher)
+    - [📊 Qala Product Price History](#-qala-product-price-history)
+    - [📁 Qala Enhanced WooCommerce Downloads](#-qala-enhanced-woocommerce-downloads)
+  - [💻 Examples Available on GitHub](#-examples-available-on-github)
+    - [📰 React News Application](#-react-news-application)
+    - [🧩 WordPress Custom Blocks and Plugins](#-wordpress-custom-blocks-and-plugins)
+      - [🚫 Disable Blocks](#-disable-blocks)
+      - [⭐ TrustPilot Reviews Block](#-trustpilot-reviews-block)
+      - [📈 Data-crunching](#-data-crunching)
+      - [🛒 Various Customisations for WooCommerce Product Pages](#-various-customisations-for-woocommerce-product-pages)
+  - [🔗 Further Code Samples](#-further-code-samples)
+  - [🌐 Portfolio Site](#-portfolio-site)
 
 ---
 
@@ -64,7 +66,7 @@
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
 
-**Available on WooCommerce Store:** [View Plugin →](https://woocommerce.com/document/qala-product-price-history-for-woocommerce/)
+**Available on WooCommerce Store:** [View Plugin →](https://woocommerce.com/products/qala-product-price-history-for-woocommerce/)
 
 **Features:**
 - 📈 **EU compliance** for price transparency requirements
@@ -89,7 +91,7 @@
 
 **Technical Highlights:**
 - 📋 **Custom product fields** for downloadable file management
-- 🔍 **ElasticSearch integration** with catalog and search pages
+- 🔍 **ElasticSearch integration** with catalogue and search pages
 - 🎨 **Handlebars templating** for dynamic file displays
 - 📱 **Responsive components** for view, share, and download actions
 
@@ -175,7 +177,7 @@
 
 ---
 
-#### 🛒 Various Customizations for WooCommerce Product Pages
+#### 🛒 Various Customisations for WooCommerce Product Pages
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
@@ -183,11 +185,11 @@
 
 **🔗 [GitHub Repository](https://github.com/yodiyo/code-demos-2022/blob/master/woocommerce-customisations/functions.php)**
 
-**Customization Examples:**
+**Customisation Examples:**
 - 🎯 **Product page enhancements** using WooCommerce hooks
 - 🛒 **Cart and checkout modifications**
 - 📊 **Custom product data display**
-- ⚡ **Performance optimizations**
+- ⚡ **Performance optimisations**
 
 ---
 
@@ -231,13 +233,13 @@
 <div align="center">
   <br>
   <p><em>Built with passion for clean code and modern web technologies</em></p>
-  
+
   ![GitHub followers](https://img.shields.io/github/followers/yodiyo?style=social)
   ![GitHub stars](https://img.shields.io/github/stars/yodiyo?style=social)
-  
+
   <br>
-  
+
   **🤝 Let's Connect!**
-  
+
   *Always interested in discussing new opportunities and technical challenges*
 </div>
