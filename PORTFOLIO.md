@@ -124,7 +124,7 @@ Design and build. Treatwell is one of the U.K.'s biggest online spa & salon soft
 
 **Project Overview**
 
-We helped Eminova Partners create a very smooth solution that digitizes Eminova Partners' processes and provides the end customer with a simplified way to participate in the opportunities Eminova Partners can present to their clients.
+We helped Eminova Partners create a very smooth solution that digitises Eminova Partners' processes and provides the end customer with a simplified way to participate in the opportunities Eminova Partners can present to their clients.
 
 🔗 **[View Project →](https://angrycreative.com/cases/eminova-partner-select/)**
 

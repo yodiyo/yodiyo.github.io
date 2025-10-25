@@ -70,7 +70,7 @@
 
 **Features:**
 - 📈 **EU compliance** for price transparency requirements
-- 📊 **30-day price graphs** with Chart.js visualization
+- 📊 **30-day price graphs** with Chart.js visualisation
 - 🔄 **Automated price tracking** and change recording
 - 🛍️ **Multi-product type support** (simple, variable, grouped)
 - 🐛 **MVP enhancement** with comprehensive bug fixes
@@ -226,7 +226,7 @@
 - 🎨 **Original custom design** and user experience
 - 🗺️ **Multiple API integrations**: Google Maps, Timeline libraries, WordPress
 - 📰 **Dynamic content management** through WordPress REST API
-- 🔄 **Planned modernization** with current technologies and accessibility improvements
+- 🔄 **Planned modernisation** with current technologies and accessibility improvements
 
 ---
 
