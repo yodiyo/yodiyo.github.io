@@ -2,7 +2,11 @@
 
 # 🚀 CODE DEMOS & EXAMPLES
 
-> Welcome to my development showcase! This repository contains examples of my work across WordPress, React, PHP, and modern web technologies. While some projects remain proprietary, I've shared what I can to demonstrate my technical capabilities.
+> Welcome to my development showcase!
+
+This repository contains examples of my work across WordPress, JavaScript, React, PHP, and modern web technologies.
+
+While some projects remain proprietary, I've shared what I can to demonstrate my technical capabilities.
 
 ## 📋 Table of Contents
 
@@ -10,9 +14,9 @@
   - [📋 Table of Contents](#-table-of-contents)
   - [🔒 Proprietary Examples with Descriptions](#-proprietary-examples-with-descriptions)
     - [📦 Bulk Order Plugin](#-bulk-order-plugin)
-    - [💱 Qala VAT Switcher](#-qala-vat-switcher)
+    - [💱 VAT Switcher](#-vat-switcher)
     - [📊 Qala Product Price History](#-qala-product-price-history)
-    - [📁 Qala Enhanced WooCommerce Downloads](#-qala-enhanced-woocommerce-downloads)
+    - [📁 Enhanced WooCommerce Downloads](#-enhanced-woocommerce-downloads)
   - [💻 Examples Available on GitHub](#-examples-available-on-github)
     - [📰 React News Application](#-react-news-application)
     - [🧩 WordPress Custom Blocks and Plugins](#-wordpress-custom-blocks-and-plugins)
@@ -44,11 +48,16 @@
 
 ---
 
-### 💱 Qala VAT Switcher
+### 💱 VAT Switcher
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+
+**Live Example:**
+- 🔄 [Product page →](https://www.bonnet.se/snohantering/slirskydd/gripx/icy-atv-57mm/atv-fyrkantslank-5-mm/)
+
+If you don't know Swedish, it's the toggle in the top right corner that switches prices to include or exclude VAT.
 
 **Technical Implementation:**
 - 🔄 **Dynamic price switching** between VAT inclusive/exclusive display
@@ -77,7 +86,7 @@
 
 ---
 
-### 📁 Qala Enhanced WooCommerce Downloads
+### 📁 Enhanced WooCommerce Downloads
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
