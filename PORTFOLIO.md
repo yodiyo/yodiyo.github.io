@@ -52,9 +52,42 @@ Using the new WordPress editor, Gutenberg, to develop a global brand experience 
 </tr>
 </table>
 
-Using the new WordPress editor, Gutenberg, to develop a global brand experience for industry leaders Lindy Electronics.
+---
 
-🔗 **[View Project →](https://angrycreative.com/cases/lindy-electronics/)**
+## 🌐 Bonnet Multisite Network
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Multisite](https://img.shields.io/badge/Multisite-0073AA?style=flat&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![VAT Switcher](https://img.shields.io/badge/VAT%20Switcher-🔄-4CAF50?style=flat&logo=toggle&logoColor=white)
+
+<table>
+<tr>
+<td width="40%">
+<img src="https://angrycreative.com/wp-content/uploads/sites/3/2021/02/Skarmavbild-2021-02-05-kl.-15.40.49-768x1024.png" alt="Bonnet Multisite Project" width="100%">
+</td>
+<td width="60%" valign="top">
+
+**Project Overview**
+
+A comprehensive WordPress multisite network solution for Bonnet and their subsidiary brands. Implemented custom child themes for each site whilst maintaining a shared parent theme architecture for consistent functionality and efficient maintenance.
+
+**Key Sites:**
+- 🚜 **[Bonnet.se](https://www.bonnet.se/)** - Main agricultural machinery site with VAT switcher
+- 🌾 **[Nordfarm.se](https://nordfarm.se/)** - Nordic farming equipment specialist  
+- ⚙️ **[X-Maskiner.se](https://x-maskiner.se/)** - Industrial machinery division
+
+**Technical Implementation:**
+- 🎨 **Custom Child Themes** for brand-specific designs
+- 🏗️ **Shared Parent Theme** for core functionality
+- 🔄 **VAT Switcher Integration** for B2B pricing flexibility
+- 🌐 **Multisite Management** across multiple domains
+
+🔗 **[View Project →](https://angrycreative.com/cases/bonnet/)**
+
+</td>
+</tr>
+</table>
 
 ---
 
