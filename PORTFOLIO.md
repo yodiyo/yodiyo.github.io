@@ -1,9 +1,7 @@
-<!-- Meta description -->
 ---
-title: "Portfolio - Full Stack Developer | WordPress, PHP & React Specialist"
+title: "Portfolio: Full-Stack Developer | WordPress, PHP & React"
 description: "Professional portfolio showcasing enterprise WordPress development, React applications, and e-commerce solutions for global brands."
 ---
-
 
 📂 [Demos](README.md) | 💼 [Portfolio](PORTFOLIO.md)
 
@@ -78,13 +76,13 @@ Build custom Gutenberg blocks to spec to develop a global brand experience for i
 
 **Project Overview**
 
-A comprehensive WordPress multisite network solution for Bonnet and their subsidiary brands. Implemented custom child themes for each site whilst maintaining a shared parent theme architecture for consistent functionality and efficient maintenance. 
+A comprehensive WordPress multisite network solution for Bonnet and their subsidiary brands. Implemented custom child themes for each site whilst maintaining a shared parent theme architecture for consistent functionality and efficient maintenance.
 
 I scoped and built a custom block to enable users to choose to see product prices including or excluding tax, across the complete e-commerce flow.
 
 **Key Sites:**
 - 🚜 **[Bonnet.se](https://www.bonnet.se/)** - Main agricultural machinery site with VAT switcher
-- 🌾 **[Nordfarm.se](https://nordfarm.se/)** - Nordic farming equipment specialist  
+- 🌾 **[Nordfarm.se](https://nordfarm.se/)** - Nordic farming equipment specialist
 - ⚙️ **[X-Maskiner.se](https://x-maskiner.se/)** - Industrial machinery division
 
 **Technical Implementation:**
@@ -285,10 +283,10 @@ Equestrian Stockholm is an exclusive equestrian brand that combines style, quali
 
 **Project Overview**
 
-WooCommerce customisation for products and variations. 
-Product Display Pages. 
-Order sample search page and modals. 
-Bundled products. 
+WooCommerce customisation for products and variations.
+Product Display Pages.
+Order sample search page and modals.
+Bundled products.
 *"Find Your Colors"* - custom hero block with slider for choosing colours with filters.
 
 🔗 **[View Project →](https://www.timbertech.com/)**
