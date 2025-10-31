@@ -1,3 +1,8 @@
+---
+title: "Demos - Full Stack Developer | WordPress, PHP & React"
+description: "Examples of work across WordPress, JavaScript, React, PHP, and modern web technologies"
+---
+
 📂 [Demos](README.md) | 💼 [Portfolio](PORTFOLIO.md)
 
 # 🚀 CODE DEMOS & EXAMPLES
@@ -10,13 +15,8 @@ While some projects remain proprietary, I've shared what I can to demonstrate my
 
 ## 📋 Table of Contents
 
-- [🚀 CODE DEMOS & EXAMPLES](#-code-demos--examples)
+- [🚀 CODE DEMOS \& EXAMPLES](#-code-demos--examples)
   - [📋 Table of Contents](#-table-of-contents)
-  - [🔒 Proprietary Examples with Descriptions](#-proprietary-examples-with-descriptions)
-    - [📦 Bulk Order Plugin](#-bulk-order-plugin)
-    - [💱 VAT Switcher](#-vat-switcher)
-    - [📊 Qala Product Price History](#-qala-product-price-history)
-    - [📁 Enhanced WooCommerce Downloads](#-enhanced-woocommerce-downloads)
   - [💻 Examples Available on GitHub](#-examples-available-on-github)
     - [📰 React News Application](#-react-news-application)
     - [🧩 WordPress Custom Blocks and Plugins](#-wordpress-custom-blocks-and-plugins)
@@ -24,85 +24,13 @@ While some projects remain proprietary, I've shared what I can to demonstrate my
       - [⭐ TrustPilot Reviews Block](#-trustpilot-reviews-block)
       - [📈 Data-crunching](#-data-crunching)
       - [🛒 Various Customisations for WooCommerce Product Pages](#-various-customisations-for-woocommerce-product-pages)
+  - [� Proprietary Examples with Descriptions](#-proprietary-examples-with-descriptions)
+    - [📦 Bulk Order Plugin](#-bulk-order-plugin)
+    - [💱 VAT Switcher](#-vat-switcher)
+    - [📊 Qala Product Price History](#-qala-product-price-history)
+    - [📁 Enhanced WooCommerce Downloads](#-enhanced-woocommerce-downloads)
   - [🔗 Further Code Samples](#-further-code-samples)
   - [🌐 Portfolio Site](#-portfolio-site)
-
----
-
-## 🔒 Proprietary Examples with Descriptions
-
-*Note: These projects are proprietary and cannot be shared publicly, but I can provide detailed descriptions of the technical implementations.*
-
-### 📦 Bulk Order Plugin
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=flat&logo=php&logoColor=white)
-
-**Key Features:**
-- 🎯 **Object-Oriented PHP** with WooCommerce API integration
-- 📋 **B2B CSV/XLS import** functionality through front-end interface
-- 🛒 **Cart management** with automatic product data processing
-- ⚠️ **Smart error handling** with WooCommerce hooks for stock notifications
-- 📊 **Automatic stock adjustment** when inventory levels are insufficient
-
----
-
-### 💱 VAT Switcher
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
-
-**Live Example:**
-- 🔄 [Product page →](https://www.bonnet.se/snohantering/slirskydd/gripx/icy-atv-57mm/atv-fyrkantslank-5-mm/)
-
-If you don't know Swedish, it's the toggle in the top right corner that switches prices to include or exclude VAT.
-
-**Technical Implementation:**
-- 🔄 **Dynamic price switching** between VAT inclusive/exclusive display
-- 🏗️ **Modular architecture** with reusable switch methods
-- 🎯 **Data attributes** integration with WooCommerce price components
-- 🛒 **Cross-component consistency** across cart, minicart, and checkout
-- ⚡ **Vanilla JavaScript classes** for optimal performance
-
----
-
-### 📊 Qala Product Price History
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
-
-**Available on WooCommerce Store:** [View Plugin →](https://woocommerce.com/products/qala-product-price-history-for-woocommerce/)
-
-**Features:**
-- 📈 **EU compliance** for price transparency requirements
-- 📊 **30-day price graphs** with Chart.js visualisation
-- 🔄 **Automated price tracking** and change recording
-- 🛍️ **Multi-product type support** (simple, variable, grouped)
-- 🐛 **MVP enhancement** with comprehensive bug fixes
-
----
-
-### 📁 Enhanced WooCommerce Downloads
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Handlebars](https://img.shields.io/badge/Handlebars.js-000000?style=flat&logo=handlebars.js&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![WordPress API](https://img.shields.io/badge/WP--API-21759B?style=flat&logo=wordpress&logoColor=white)
-
-**Live Examples:**
-- 📚 [Documentation Library](https://www.sentricsafetygroup.com/datasheets-and-documentation/?brand=Castell)
-- 🛍️ [Product Page Integration](https://www.sentricsafetygroup.com/product/ksd/)
-
-**Technical Highlights:**
-- 📋 **Custom product fields** for downloadable file management
-- 🔍 **ElasticSearch integration** with catalogue and search pages
-- 🎨 **Handlebars templating** for dynamic file displays
-- 📱 **Responsive components** for view, share, and download actions
 
 ---
 
@@ -199,6 +127,83 @@ If you don't know Swedish, it's the toggle in the top right corner that switches
 - 🛒 **Cart and checkout modifications**
 - 📊 **Custom product data display**
 - ⚡ **Performance optimisations**
+
+---
+
+## 🔒 Proprietary Examples with Descriptions
+
+*Note: These projects are proprietary and cannot be shared publicly, but I can provide detailed descriptions of the technical implementations.*
+
+### 📦 Bulk Order Plugin
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=flat&logo=php&logoColor=white)
+
+**Key Features:**
+- 🎯 **Object-Oriented PHP** with WooCommerce API integration
+- 📋 **B2B CSV/XLS import** functionality through front-end interface
+- 🛒 **Cart management** with automatic product data processing
+- ⚠️ **Smart error handling** with WooCommerce hooks for stock notifications
+- 📊 **Automatic stock adjustment** when inventory levels are insufficient
+
+---
+
+### 💱 VAT Switcher
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+
+**Live Example:**
+- 🔄 [Product page →](https://www.bonnet.se/snohantering/slirskydd/gripx/icy-atv-57mm/atv-fyrkantslank-5-mm/)
+
+If you don't know Swedish, it's the toggle in the top right corner that switches prices to include or exclude VAT.
+
+**Technical Implementation:**
+- 🔄 **Dynamic price switching** between VAT inclusive/exclusive display
+- 🏗️ **Modular architecture** with reusable switch methods
+- 🎯 **Data attributes** integration with WooCommerce price components
+- 🛒 **Cross-component consistency** across cart, minicart, and checkout
+- ⚡ **Vanilla JavaScript classes** for optimal performance
+
+---
+
+### 📊 Qala Product Price History
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+
+**Available on WooCommerce Store:** [View Plugin →](https://woocommerce.com/products/qala-product-price-history-for-woocommerce/)
+
+**Features:**
+- 📈 **EU compliance** for price transparency requirements
+- 📊 **30-day price graphs** with Chart.js visualisation
+- 🔄 **Automated price tracking** and change recording
+- 🛍️ **Multi-product type support** (simple, variable, grouped)
+- 🐛 **MVP enhancement** with comprehensive bug fixes
+
+---
+
+### 📁 Enhanced WooCommerce Downloads
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Handlebars](https://img.shields.io/badge/Handlebars.js-000000?style=flat&logo=handlebars.js&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![WordPress API](https://img.shields.io/badge/WP--API-21759B?style=flat&logo=wordpress&logoColor=white)
+
+**Live Examples:**
+- 📚 [Documentation Library](https://www.sentricsafetygroup.com/datasheets-and-documentation/?brand=Castell)
+- 🛍️ [Product Page Integration](https://www.sentricsafetygroup.com/product/ksd/)
+
+**Technical Highlights:**
+- 📋 **Custom product fields** for downloadable file management
+- 🔍 **ElasticSearch integration** with catalogue and search pages
+- 🎨 **Handlebars templating** for dynamic file displays
+- 📱 **Responsive components** for view, share, and download actions
 
 ---
 
