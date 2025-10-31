@@ -1,3 +1,7 @@
+--- layout: default
+--- title: Portfolio
+
+
 📂 [Demos](README.md) | 💼 [Portfolio](PORTFOLIO.md)
 
 # 💼 PORTFOLIO
