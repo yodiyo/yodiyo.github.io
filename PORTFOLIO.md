@@ -68,7 +68,7 @@ Using the new WordPress editor, Gutenberg, to develop a global brand experience 
 <table>
 <tr>
 <td width="40%">
-<img src="https://angrycreative.com/wp-content/uploads/sites/3/2021/02/Skarmavbild-2021-02-05-kl.-15.40.49-768x1024.png" alt="Bonnet Multisite Project" width="100%">
+<img src="https://angrycreative.se/img-srv/OALSTjth7ileOK207MKFNBNc-9ePOweI18aDssZvz3E/resizing_type:auto/width:1240/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:81/cachebuster:filesize-180123/bG9jYWw6Ly8vYW5ncnljcmVhdGl2ZS5zZS93cC1jb250ZW50L3VwbG9hZHMvc2l0ZXMvMi8yMDI1LzA3L2Rlc2t0b3AtYm9ubmV0LmpwZw.webp" width="100%">
 </td>
 <td width="60%" valign="top">
 
