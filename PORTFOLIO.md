@@ -69,6 +69,7 @@ Using the new WordPress editor, Gutenberg, to develop a global brand experience 
 <tr>
 <td width="40%">
 <img src="https://angrycreative.se/img-srv/OALSTjth7ileOK207MKFNBNc-9ePOweI18aDssZvz3E/resizing_type:auto/width:1240/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:81/cachebuster:filesize-180123/bG9jYWw6Ly8vYW5ncnljcmVhdGl2ZS5zZS93cC1jb250ZW50L3VwbG9hZHMvc2l0ZXMvMi8yMDI1LzA3L2Rlc2t0b3AtYm9ubmV0LmpwZw.webp" width="100%">
+<img src="https://angrycreative.se/img-srv/tNSRfhQEYZegdkg75imfGzcBV1sLyp8XLeoO1_mSlUs/resizing_type:auto/width:1240/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:81/cachebuster:filesize-937878/bG9jYWw6Ly8vYW5ncnljcmVhdGl2ZS5zZS93cC1jb250ZW50L3VwbG9hZHMvc2l0ZXMvMi8yMDI1LzA2L25vcmRmYXJtLW1vYmlsZS13ZWJzaXRlLnBuZw.webp" width="100%">
 </td>
 <td width="60%" valign="top">
 
