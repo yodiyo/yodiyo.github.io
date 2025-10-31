@@ -1,5 +1,8 @@
---- layout: default
---- title: Portfolio
+<!-- Meta description -->
+---
+title: "Portfolio - Full Stack Developer | WordPress, PHP & React Specialist"
+description: "Professional portfolio showcasing enterprise WordPress development, React applications, and e-commerce solutions for global brands."
+---
 
 
 📂 [Demos](README.md) | 💼 [Portfolio](PORTFOLIO.md)
@@ -22,7 +25,7 @@
 
 **Project Overview**
 
-Sage needed a solution that would provide a centralised global blogging platform for 20+ different local markets that had multilanguage capabilities. Each region needed to be able to manage their own content, as well as having the ability to share and push content globally, when required.
+Sage needed a solution that would provide a centralised global blogging platform for 20+ different local markets that had multilanguage capabilities. Each region needed to be able to manage their own content, translations, and local marketing campaigns while maintaining brand consistency across the global network.
 
 🔗 **[View Project →](https://angrycreative.com/cases/sage-advice/)**
 
@@ -45,7 +48,7 @@ Sage needed a solution that would provide a centralised global blogging platform
 
 **Project Overview**
 
-Using the new WordPress editor, Gutenberg, to develop a global brand experience for industry leaders Lindy Electronics.
+Build custom Gutenberg blocks to spec to develop a global brand experience for industry leaders Lindy Electronics.
 
 🔗 **[View Project →](https://angrycreative.com/cases/lindy-electronics/)**
 
@@ -75,7 +78,9 @@ Using the new WordPress editor, Gutenberg, to develop a global brand experience 
 
 **Project Overview**
 
-A comprehensive WordPress multisite network solution for Bonnet and their subsidiary brands. Implemented custom child themes for each site whilst maintaining a shared parent theme architecture for consistent functionality and efficient maintenance.
+A comprehensive WordPress multisite network solution for Bonnet and their subsidiary brands. Implemented custom child themes for each site whilst maintaining a shared parent theme architecture for consistent functionality and efficient maintenance. 
+
+I scoped and built a custom block to enable users to choose to see product prices including or excluding tax, across the complete e-commerce flow.
 
 **Key Sites:**
 - 🚜 **[Bonnet.se](https://www.bonnet.se/)** - Main agricultural machinery site with VAT switcher
@@ -85,8 +90,8 @@ A comprehensive WordPress multisite network solution for Bonnet and their subsid
 **Technical Implementation:**
 - 🎨 **Custom Child Themes** for brand-specific designs
 - 🏗️ **Shared Parent Theme** for core functionality
-- 🔄 **VAT Switcher Integration** for B2B pricing flexibility
 - 🌐 **Multisite Management** across multiple domains
+- 🔄 **VAT Switcher Integration** for B2B pricing flexibility
 
 🔗 **[View Project →](https://angrycreative.com/cases/bonnet/)**
 
@@ -113,6 +118,8 @@ A comprehensive WordPress multisite network solution for Bonnet and their subsid
 **Project Overview**
 
 Extend the existing igamingbusiness.com site to add features and functionality, notably around a logged in user experience and create a multisite network that also supported two other brands within the gaming division.
+
+Successfully built and delivered a complex file-sharing system for enable customers to select a product and download the collection of related files and assets.
 
 🔗 **[View Project →](https://angrycreative.com/cases/igaming-business/)**
 
@@ -164,6 +171,8 @@ Design and build. Treatwell is one of the U.K.'s biggest online spa & salon soft
 
 We helped Eminova Partners create a very smooth solution that digitises Eminova Partners' processes and provides the end customer with a simplified way to participate in the opportunities Eminova Partners can present to their clients.
 
+Successfully delivered functionality that enabled KYC processes across different business scenarios and automatically linked the customer to relevant products and cases.
+
 🔗 **[View Project →](https://angrycreative.com/cases/eminova-partner-select/)**
 
 </td>
@@ -174,10 +183,16 @@ We helped Eminova Partners create a very smooth solution that digitises Eminova 
 
 ## 🛡️ Sentric Safety Group
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Object Oriented Programming](https://img.shields.io/badge/Object_Oriented_Programming-000000?style=for-the-badge&logo=codeforces&logoColor=white)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 ![WPForms](https://img.shields.io/badge/WPForms-0073AA?style=flat&logo=wpforms&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
 
 <table>
 <tr>
@@ -200,9 +215,10 @@ Design and build. Sentric Safety Group's project showcased innovative solutions 
 
 ## 🪨 Granit & Marmor
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![E-commerce](https://img.shields.io/badge/E--commerce-4CAF50?style=flat&logo=shopify&logoColor=white)
 
 <table>
@@ -226,9 +242,11 @@ Check out how we aided Granit & Marmor in simplifying their purchase process, pr
 
 ## 🐎 Equestrian Stockholm
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Object Oriented Programming](https://img.shields.io/badge/Object_Oriented_Programming-000000?style=for-the-badge&logo=codeforces&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![E-commerce](https://img.shields.io/badge/E--commerce-4CAF50?style=flat&logo=shopify&logoColor=white)
 
 <table>
@@ -252,10 +270,11 @@ Equestrian Stockholm is an exclusive equestrian brand that combines style, quali
 
 ## 🌲 TimberTech
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 
 <table>
 <tr>
@@ -266,7 +285,11 @@ Equestrian Stockholm is an exclusive equestrian brand that combines style, quali
 
 **Project Overview**
 
-WooCommerce customisation for products and variations. Product Display Pages. Order sample search page and modals. Bundled products. *"Find Your Colors"* - custom hero block with slider for choosing colours with filters.
+WooCommerce customisation for products and variations. 
+Product Display Pages. 
+Order sample search page and modals. 
+Bundled products. 
+*"Find Your Colors"* - custom hero block with slider for choosing colours with filters.
 
 🔗 **[View Project →](https://www.timbertech.com/)**
 
@@ -278,10 +301,10 @@ WooCommerce customisation for products and variations. Product Display Pages. Or
 
 ## 📚 Discovery Education - Egyptian Knowledge Bank
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Multilingual](https://img.shields.io/badge/Multilingual-FF9800?style=flat&logo=translate&logoColor=white)
 ![Templates](https://img.shields.io/badge/Templates-2196F3?style=flat&logo=template&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
+
 
 <table>
 <tr>
@@ -289,7 +312,9 @@ WooCommerce customisation for products and variations. Product Display Pages. Or
 
 **Project Overview**
 
-Welcome to Discovery Education - Egyptian Knowledge Bank. The Egyptian Knowledge Bank is a English/Arabic website, which leveraged existing templates and components to enable building this site in short time.
+The Egyptian Knowledge Bank is a English/Arabic website, which leveraged existing templates and components to enable building this site in short time.
+
+The site was quickly put together with templates and resources that I had developed in my role as Lead Developer on the enterprise CMS, leading to the Discovery Education winning its bid as a provider to this historic and ambitious initiative.
 
 🔗 **[View Project →](https://www.dailynewsegypt.com/2017/04/26/discovery-education-deploys-technology-egyptian-knowledge-bank/)**
 
@@ -304,9 +329,8 @@ Welcome to Discovery Education - Egyptian Knowledge Bank. The Egyptian Knowledge
 
 ## ❓ Discovery Education - Help Centre
 
-![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat&logo=zendesk&logoColor=white)
-![Documentation](https://img.shields.io/badge/Documentation-9C27B0?style=flat&logo=gitbook&logoColor=white)
-![Support](https://img.shields.io/badge/Support-FF5722?style=flat&logo=lifebuoy&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
+
 
 <table>
 <tr>
@@ -329,9 +353,8 @@ Discovery Education UK Help Centre. Creating and establishing a network of user-
 
 ## 🌐 Discovery Education - Promotional Website
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-E91E63?style=flat&logo=responsive&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![CMS](https://img.shields.io/badge/Enterprise%20CMS-607D8B?style=flat&logo=cms&logoColor=white)
 
 <table>
@@ -340,7 +363,7 @@ Discovery Education UK Help Centre. Creating and establishing a network of user-
 
 **Project Overview**
 
-Promotional website for Discovery Education UK. As lead developer on the enterprise CMS, I architected and created scalable, component-based templates with Responsive Web Design. This enabled the marketing department to create hundreds of content-driven pages and custom features including mastheads, hero banners, dynamic columns and grid layouts, video indexes, tabbed content areas, and grouped indexing.
+Promotional website for Discovery Education UK. As Lead Developer on the enterprise CMS, I architected and created scalable, component-based templates with Responsive Web Design. This enabled the marketing department to create hundreds of content-driven pages and custom features including mastheads, hero banners, dynamic columns and grid layouts, video indexes, tabbed content areas, and grouped indexing.
 
 🔗 **[View Project →](https://www.discoveryeducation.co.uk/)**
 
@@ -355,8 +378,9 @@ Promotional website for Discovery Education UK. As lead developer on the enterpr
 
 ## 🎯 Discovery Education - Spotlight on Strategies
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![AngularJS](https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
+![XSLT](https://img.shields.io/badge/XSLT-gray)
 ![Component Templates](https://img.shields.io/badge/Components-00BCD4?style=flat&logo=component&logoColor=white)
 ![Filters](https://img.shields.io/badge/Filters-795548?style=flat&logo=filter&logoColor=white)
 
@@ -392,7 +416,7 @@ Discovery Education's Spotlight on Strategies. Component template for index feat
 
 **Project Overview**
 
-Localisation of Espresso Education for Swedish publisher Liber.
+Localisation of Espresso Education for Swedish publisher Liber. Working with producers and content creators to "Swedify" new and existing resources within a custom framework and on a weekly broadcast schedule.
 
 🔗 **[View Project →](https://www.liber.se/digitala-laromedel/discovery-espresso)**
 
