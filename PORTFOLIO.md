@@ -14,7 +14,7 @@ description: "Professional portfolio showcasing enterprise WordPress development
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Multisite](https://img.shields.io/badge/Multisite-0073AA?style=flat&logo=wordpress&logoColor=white)
 
-<table>
+<table markdown="1">
 <tr>
 <td width="40%">
 <img src="https://angrycreative.com/wp-content/uploads/sites/3/2020/10/Desktop-Size-768x1024.png" alt="Sage Advice Project" width="100%">
@@ -40,7 +40,7 @@ Sage needed a solution that would provide a centralised global blogging platform
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<table>
+<table markdown="1">
 <tr>
 <td width="60%" valign="top">
 
@@ -66,7 +66,7 @@ Build custom Gutenberg blocks to spec to develop a global brand experience for i
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![VAT Switcher](https://img.shields.io/badge/VAT%20Switcher-🔄-4CAF50?style=flat&logo=toggle&logoColor=white)
 
-<table>
+<table markdown="1">
 <tr>
 <td width="40%">
 <img src="https://angrycreative.se/img-srv/OALSTjth7ileOK207MKFNBNc-9ePOweI18aDssZvz3E/resizing_type:auto/width:1240/height:0/gravity:sm/enlarge:1/ext:webp/strip_metadata:1/quality:81/cachebuster:filesize-180123/bG9jYWw6Ly8vYW5ncnljcmVhdGl2ZS5zZS93cC1jb250ZW50L3VwbG9hZHMvc2l0ZXMvMi8yMDI1LzA3L2Rlc2t0b3AtYm9ubmV0LmpwZw.webp" width="100%">
@@ -106,7 +106,7 @@ I scoped and built a custom block to enable users to choose to see product price
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Multisite](https://img.shields.io/badge/Multisite-0073AA?style=flat&logo=wordpress&logoColor=white)
 
-<table>
+<table markdown="1">
 <tr>
 <td width="40%">
 <img src="./assets/images/igb-desktop.webp" alt="IGB Project" width="100%">
@@ -134,7 +134,7 @@ Successfully built and delivered a complex file-sharing system for enable custom
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<table>
+<table markdown="1">
 <tr>
 <td width="60%" valign="top">
 
@@ -158,7 +158,7 @@ Design and build. Treatwell is one of the U.K.'s biggest online spa & salon soft
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Custom Development](https://img.shields.io/badge/Custom%20Development-FF6B6B?style=flat&logo=code&logoColor=white)
 
-<table>
+<table markdown="1">
 <tr>
 <td width="40%">
 <img src="https://angrycreative.com/wp-content/uploads/sites/3/2023/06/Angry-creative-eminova-desktop2-768x1024.jpg" alt="Eminova Partners Project" width="100%">
@@ -192,7 +192,7 @@ Successfully delivered functionality that enabled KYC processes across different
 ![WPForms](https://img.shields.io/badge/WPForms-0073AA?style=flat&logo=wpforms&logoColor=white)
 
 
-<table>
+<table markdown="1">
 <tr>
 <td width="60%" valign="top">
 
@@ -219,7 +219,7 @@ Design and build. Sentric Safety Group's project showcased innovative solutions 
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 ![E-commerce](https://img.shields.io/badge/E--commerce-4CAF50?style=flat&logo=shopify&logoColor=white)
 
-<table>
+<table markdown="1">
 <tr>
 <td width="40%">
 <img src="https://angrycreative.com/wp-content/uploads/sites/3/2023/06/Angry-creative-granit-marmor-website2-768x1024.jpg" alt="Granit & Marmor Project" width="100%">
@@ -247,7 +247,7 @@ Check out how we aided Granit & Marmor in simplifying their purchase process, pr
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 ![E-commerce](https://img.shields.io/badge/E--commerce-4CAF50?style=flat&logo=shopify&logoColor=white)
 
-<table>
+<table markdown="1">
 <tr>
 <td width="60%" valign="top">
 
@@ -274,7 +274,7 @@ Equestrian Stockholm is an exclusive equestrian brand that combines style, quali
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 
-<table>
+<table markdown="1">
 <tr>
 <td width="40%">
 <img src="https://theyoricktouch.com/news/wp-content/uploads/2024/10/timbertech-find-your-colors-e1728516815811.png" alt="TimberTech Project" width="100%">
@@ -304,7 +304,7 @@ Bundled products.
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 
 
-<table>
+<table markdown="1">
 <tr>
 <td width="60%" valign="top">
 
@@ -330,7 +330,7 @@ The site was quickly put together with templates and resources that I had develo
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 
 
-<table>
+<table markdown="1">
 <tr>
 <td width="40%">
 <img src="https://theyoricktouch.com/news/wp-content/uploads/2024/10/Discovery-Eductation-Help-Centre.png" alt="Discovery Education Help Centre" width="100%">
@@ -355,7 +355,7 @@ Discovery Education UK Help Centre. Creating and establishing a network of user-
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![CMS](https://img.shields.io/badge/Enterprise%20CMS-607D8B?style=flat&logo=cms&logoColor=white)
 
-<table>
+<table markdown="1">
 <tr>
 <td width="60%" valign="top">
 
@@ -382,7 +382,7 @@ Promotional website for Discovery Education UK. As Lead Developer on the enterpr
 ![Component Templates](https://img.shields.io/badge/Components-00BCD4?style=flat&logo=component&logoColor=white)
 ![Filters](https://img.shields.io/badge/Filters-795548?style=flat&logo=filter&logoColor=white)
 
-<table>
+<table markdown="1">
 <tr>
 <td width="40%">
 <img src="https://theyoricktouch.com/news/wp-content/uploads/2024/10/Discovery-Education-Spotlight-on-Strategies.png" alt="Discovery Education Spotlight on Strategies" width="100%">
@@ -408,7 +408,7 @@ Discovery Education's Spotlight on Strategies. Component template for index feat
 ![Localisation](https://img.shields.io/badge/Localisation-FFC107?style=flat&logo=translate&logoColor=black)
 ![Education](https://img.shields.io/badge/Education-8BC34A?style=flat&logo=graduation-cap&logoColor=white)
 
-<table>
+<table markdown="1">
 <tr>
 <td width="60%" valign="top">
 
