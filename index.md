@@ -15,7 +15,7 @@ While some projects remain proprietary, I've shared what I can to demonstrate my
 
 ## 📋 Table of Contents
 
-- [🚀 CODE DEMOS \& EXAMPLES](#-code-demos--examples)
+- [🚀 CODE DEMOS & EXAMPLES](#-code-demos--examples)
   - [📋 Table of Contents](#-table-of-contents)
   - [💻 Examples Available on GitHub](#-examples-available-on-github)
     - [📰 React News Application](#-react-news-application)
