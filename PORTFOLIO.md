@@ -1,10 +1,9 @@
 ---
-title: "Portfolio: Full-Stack Developer | WordPress, PHP & React"
-description: "Professional portfolio showcasing enterprise WordPress development, React applications, and e-commerce solutions for global brands."
+title: "Demos - Full Stack Developer | WordPress, PHP & React"
+description: "Examples of work across WordPress, JavaScript, React, PHP, and modern web technologies"
 ---
 
 📂 [Demos](README.md) | 💼 [Portfolio](PORTFOLIO.md)
-
 # 💼 PORTFOLIO
 
 ## 🏢 Sage Advice
