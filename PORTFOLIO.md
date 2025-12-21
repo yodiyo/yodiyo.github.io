@@ -7,6 +7,25 @@ description: "Examples of work across WordPress, JavaScript, React, PHP, and mod
 
 # 💼 PORTFOLIO
 
+- [💼 PORTFOLIO](#-portfolio)
+  - [🏢 Sage Advice](#-sage-advice)
+  - [⚡ Lindy Electronics](#-lindy-electronics)
+  - [🌐 Bonnet Multisite Network](#-bonnet-multisite-network)
+  - [🎮 IGB](#-igb)
+  - [💅 Treatwell](#-treatwell)
+  - [📈 Eminova Partners](#-eminova-partners)
+  - [🛡️ Sentric Safety Group](#️-sentric-safety-group)
+  - [🪨 Granit \& Marmor](#-granit--marmor)
+  - [🐎 Equestrian Stockholm](#-equestrian-stockholm)
+  - [🌲 TimberTech](#-timbertech)
+  - [📚 Discovery Education - Egyptian Knowledge Bank](#-discovery-education---egyptian-knowledge-bank)
+  - [❓ Discovery Education - Help Centre](#-discovery-education---help-centre)
+  - [🌐 Discovery Education - Promotional Website](#-discovery-education---promotional-website)
+  - [🎯 Discovery Education - Spotlight on Strategies](#-discovery-education---spotlight-on-strategies)
+  - [🇸🇪 Espresso Education - Swedish Edition](#-espresso-education---swedish-edition)
+
+---
+
 ## 🏢 Sage Advice
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
