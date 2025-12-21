@@ -15,7 +15,7 @@ While some projects remain proprietary, I've shared what I can to demonstrate my
 
 ## 📋 Table of Contents
 
-- [🚀 CODE DEMOS & EXAMPLES](#-code-demos--examples)
+- [🚀 CODE DEMOS \& EXAMPLES](#-code-demos--examples)
   - [📋 Table of Contents](#-table-of-contents)
   - [💻 Examples Available on GitHub](#-examples-available-on-github)
     - [📰 React News Application](#-react-news-application)
@@ -24,7 +24,7 @@ While some projects remain proprietary, I've shared what I can to demonstrate my
       - [⭐ TrustPilot Reviews Block](#-trustpilot-reviews-block)
       - [📈 Data-crunching](#-data-crunching)
       - [🛒 Various Customisations for WooCommerce Product Pages](#-various-customisations-for-woocommerce-product-pages)
-  - [� Proprietary Examples with Descriptions](#-proprietary-examples-with-descriptions)
+  - [🔒 Proprietary Examples with Descriptions](#-proprietary-examples-with-descriptions)
     - [📦 Bulk Order Plugin](#-bulk-order-plugin)
     - [💱 VAT Switcher](#-vat-switcher)
     - [📊 Qala Product Price History](#-qala-product-price-history)
@@ -243,17 +243,21 @@ If you don't know Swedish, it's the toggle in the top right corner that switches
 - 🔄 **Planned modernisation** with current technologies and accessibility improvements
 
 ---
+<br>
+<br>
 
-<div align="center">
-  <br>
-  <p><em>Built with passion for clean code and modern web technologies</em></p>
+Built with passion for clean code and modern web technologies
 
-  ![GitHub followers](https://img.shields.io/github/followers/yodiyo?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/yodiyo?style=social)
+![GitHub followers](https://img.shields.io/github/followers/yodiyo?style=social)
+![GitHub stars](https://img.shields.io/github/stars/yodiyo?style=social)
 
-  <br>
+**🤝 Let's Connect!**
 
-  **🤝 Let's Connect!**
+I'm always interested in discussing new opportunities and technical challenges
 
-  *Always interested in discussing new opportunities and technical challenges*
-</div>
+🌐 [The Yorick Touch](https://theyoricktouch.com)
+
+✉️ [info@theyoricktouch.com](mailto:info@theyoricktouch.com)
+
+💼 [LinkedIn](https://linkedin.com/in/theyoricktouch)
+

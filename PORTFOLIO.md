@@ -227,11 +227,22 @@ description: "Examples of work across WordPress, JavaScript, React, PHP, and mod
 | **Project Overview**<br><br>Localisation of Espresso Education for Swedish publisher Liber. Working with producers and content creators to "Swedify" new and existing resources within a custom framework and on a weekly broadcast schedule.<br><br>🔗 **[View Project →](https://www.liber.se/digitala-laromedel/discovery-espresso)** | ![Espresso Education Swedish Edition](https://theyoricktouch.com/news/wp-content/uploads/2024/10/Screenshot-2024-10-24-at-17.39.02.png) |
 
 ---
+<br>
+<br>
 
-<div align="center">
-  <br>
-  <p><em>Built with ❤️ and cutting-edge web technologies</em></p>
 
-  ![GitHub followers](https://img.shields.io/github/followers/yodiyo?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/yodiyo?style=social)
-</div>
+Built with passion for clean code and modern web technologies
+
+![GitHub followers](https://img.shields.io/github/followers/yodiyo?style=social)
+![GitHub stars](https://img.shields.io/github/stars/yodiyo?style=social)
+
+**🤝 Let's Connect!**
+
+I'm always interested in discussing new opportunities and technical challenges
+
+🌐 [The Yorick Touch](https://theyoricktouch.com)
+
+✉️ [info@theyoricktouch.com](mailto:info@theyoricktouch.com)
+
+💼 [LinkedIn](https://linkedin.com/in/theyoricktouch)
+
