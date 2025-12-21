@@ -15,7 +15,7 @@ description: "Examples of work across WordPress, JavaScript, React, PHP, and mod
   - [💅 Treatwell](#-treatwell)
   - [📈 Eminova Partners](#-eminova-partners)
   - [🛡️ Sentric Safety Group](#️-sentric-safety-group)
-  - [🪨 Granit \& Marmor](#-granit--marmor)
+  - [🪨 Granit och Marmor](#-granit-och-marmor)
   - [🐎 Equestrian Stockholm](#-equestrian-stockholm)
   - [🌲 TimberTech](#-timbertech)
   - [📚 Discovery Education - Egyptian Knowledge Bank](#-discovery-education---egyptian-knowledge-bank)
@@ -122,7 +122,7 @@ description: "Examples of work across WordPress, JavaScript, React, PHP, and mod
 
 ---
 
-## 🪨 Granit & Marmor
+## 🪨 Granit och Marmor
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
