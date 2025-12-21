@@ -66,9 +66,10 @@ description: "Examples of work across WordPress, JavaScript, React, PHP, and mod
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-| Preview                                                                                                                                                                                                                                                                                  | Details                                                                                                                           |
+| Details                                                                                                                                                                                                                                                                                  | Preview                                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **Project Overview**<br><br>Design and build. Treatwell is one of the U.K.'s biggest online spa & salon software providers giving beauty business owners an online booking app for a monthly subscription fee.<br><br>🔗 **[View Project →](https://angrycreative.com/cases/treatwell/)** | ![Treatwell Project](https://angrycreative.com/wp-content/uploads/sites/3/2021/11/Screenshot-2021-11-17-at-14.10.26-768x1024.png) |
+
 ---
 
 ## 📈 Eminova Partners
