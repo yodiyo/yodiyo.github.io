@@ -1,16 +1,6 @@
 plugins:
   - jekyll-relative-links
-
-# Disable GitHub metadata plugin for local development
-github: [metadata]
-
-# Site settings
-title: Yorick Brown | Full Stack Developer
-description: Portfolio and code examples showcasing WordPress, PHP, React, and modern web technologies
-author: Yorick Brown
-url: https://yodiyo.github.io
-
-theme: jekyll-theme-minimal
+theme: minima
 # OR choose from: cayman, slate, tactile, time-machine, leap-day, modernist, architect, dinky, minima
 # remote_theme: pages-themes/minimal@v0.2.0
 # Popular: mmistakes/minimal-mistakes, just-the-docs/just-the-docs
