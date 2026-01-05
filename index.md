@@ -7,8 +7,6 @@ description: "Examples of work across WordPress, JavaScript, React, PHP, and mod
 
 # 🚀 CODE DEMOS & EXAMPLES
 
-> Welcome to my development showcase!
-
 This repository contains examples of my work across WordPress, JavaScript, React, PHP, and modern web technologies.
 
 While some projects remain proprietary, I've shared what I can to demonstrate my technical capabilities.
