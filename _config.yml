@@ -5,10 +5,19 @@ plugins:
 github: [metadata]
 
 # Site settings
-title: Yorick Brown | Full Stack Developer
-description: Portfolio and code examples showcasing WordPress, PHP, React, and modern web technologies
+name: Yorick Brown
+title: Full-Stack Developer | Custom WordPress, WooCommerce & API Integrations | Building Scalable, Optimised & Accessible Solutions | JavaScript | PHP | React | OOP
+description1: "Welcome to my Github portfolio! I'm a passionate full-stack developer specialising in custom WordPress and WooCommerce solutions."
+description2: "With expertise in JavaScript, PHP, React, and OOP, I create scalable, optimised, and accessible web applications tailored to your needs."
 author: Yorick Brown
 url: https://yodiyo.github.io
+logo: /assets/images/dreads-white.png
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name
 
 theme: jekyll-theme-minimal
 # OR choose from: cayman, slate, tactile, time-machine, leap-day, modernist, architect, dinky, minima
