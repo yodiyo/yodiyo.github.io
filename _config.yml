@@ -12,6 +12,11 @@ description2: "With expertise in JavaScript, PHP, React, and OOP, I create scala
 author: Yorick Brown
 url: https://yodiyo.github.io
 logo: /assets/images/dreads-white.png
+contact1: "🤝 Let's Connect!"
+contact2: "I'm always interested in discussing new opportunities and technical challenges. Feel free to reach out through any of the following channels:"
+contact3: "🌐 https://theyoricktouch.com"
+contact4: "✉️ mailto:info@theyoricktouch.com"
+contact5: "💼 https://linkedin.com/in/theyoricktouch"
 
 # Collections
 collections:
@@ -27,6 +32,8 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - PORTFOLIO.md
+  - portfolio.md
+  - demos.md
   - README.md
   - index.md
+

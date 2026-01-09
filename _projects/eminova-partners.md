@@ -42,4 +42,4 @@ Successfully delivered functionality that enabled KYC processes across different
 
 ---
 
-[← Back to Portfolio](../PORTFOLIO.md)
+[← Back to Portfolio](../portfolio.md)

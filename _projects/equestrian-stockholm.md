@@ -44,4 +44,4 @@ Equestrian Stockholm is an exclusive equestrian brand that combines style, quali
 
 ---
 
-[← Back to Portfolio](../PORTFOLIO.md)
+[← Back to Portfolio](../portfolio.md)

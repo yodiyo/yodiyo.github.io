@@ -8,7 +8,7 @@ image: "https://angrycreative.com/wp-content/uploads/sites/3/2021/11/Screenshot-
 external_link: "https://angrycreative.com/cases/treatwell/"
 ---
 
-[← Back to Portfolio](../PORTFOLIO.md)
+[← Back to Portfolio](../portfolio.md)
 
 ---
 
@@ -45,4 +45,4 @@ Design and build. Treatwell is one of the U.K.'s biggest online spa & salon soft
 
 ---
 
-[← Back to Portfolio](../PORTFOLIO.md)
+[← Back to Portfolio](../portfolio.md)

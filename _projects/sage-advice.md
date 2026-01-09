@@ -41,4 +41,4 @@ Sage needed a solution that would provide a centralised global blogging platform
 
 ---
 
-[← Back to Portfolio](../PORTFOLIO.md)
+[← Back to Portfolio](../portfolio.md)

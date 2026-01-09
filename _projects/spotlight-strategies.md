@@ -43,4 +43,4 @@ Discovery Education's Spotlight on Strategies. Component template for index feat
 
 ---
 
-[← Back to Portfolio](../PORTFOLIO.md)
+[← Back to Portfolio](../portfolio.md)

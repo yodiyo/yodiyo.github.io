@@ -50,4 +50,4 @@ Design and build. Sentric Safety Group's project showcased innovative solutions 
 
 ---
 
-[← Back to Portfolio](../PORTFOLIO.md)
+[← Back to Portfolio](../portfolio.md)

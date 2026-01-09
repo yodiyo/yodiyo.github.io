@@ -4,7 +4,7 @@ description: "Browse my portfolio of web development projects across WordPress, 
 layout: default
 ---
 
-📂 [Demos](README.md) | 💼 [Portfolio](PORTFOLIO.md)
+📂 [Demos](demos.md) | 💼 [Portfolio](portfolio.md)
 
 # 💼 Portfolio
 

@@ -1,7 +1,14 @@
 ---
 ---
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+/* import jekyll theme styles */
 @import "{{ site.theme }}";
+
+body {
+	font-family: "Open Sans", sans-serif;
+}
 
 /* Portfolio Card Grid Styles */
 .portfolio-grid {
@@ -151,3 +158,14 @@
 		border-color: #30363d;
 	}
 }
+
+a:hover {
+	font-weight: initial;
+}
+
+.site-title {
+	font-size: 1.1rem;
+	line-height: 1.7;
+}
+
+

@@ -44,4 +44,4 @@ WooCommerce customisation for products and variations featuring custom product d
 
 ---
 
-[← Back to Portfolio](../PORTFOLIO.md)
+[← Back to Portfolio](../portfolio.md)
