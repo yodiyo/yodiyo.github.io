@@ -18,9 +18,9 @@ contact3: "https://linkedin.com/in/theyoricktouch"
 contact4: "tel:+447905247756"
 nav:
   - title: "Demos"
-    url: /demos.html
+    url: /demos
   - title: "Portfolio"
-    url: /portfolio.html
+    url: /portfolio
 
 # Collections
 collections:
