@@ -7,16 +7,20 @@ github: [metadata]
 # Site settings
 name: Yorick Brown
 title: Full-Stack Developer | Custom WordPress, WooCommerce & API Integrations | Building Scalable, Optimised & Accessible Solutions | JavaScript | PHP | React | OOP
-description1: "Welcome to my Github portfolio! I'm a passionate full-stack developer specialising in custom WordPress and WooCommerce solutions."
-description2: "With expertise in JavaScript, PHP, React, and OOP, I create scalable, optimised, and accessible web applications tailored to your needs."
 author: Yorick Brown
 url: https://yodiyo.github.io
-logo: /assets/images/dreads-white.png
-contact1: "🤝 Let's Connect!"
-contact2: "I'm always interested in discussing new opportunities and technical challenges. Feel free to reach out through any of the following channels:"
-contact3: "🌐 https://theyoricktouch.com"
-contact4: "✉️ mailto:info@theyoricktouch.com"
-contact5: "💼 https://linkedin.com/in/theyoricktouch"
+logo: /assets/images/profile.jpg
+heading: "🤝 Let's Connect!"
+description: "I'm always interested in discussing new opportunities and technical challenges. Feel free to reach out through any of the following channels."
+contact1: "https://theyoricktouch.com"
+contact2: "mailto:info@theyoricktouch.com"
+contact3: "https://linkedin.com/in/theyoricktouch"
+contact4: "tel:+447905247756"
+nav:
+  - title: "Demos"
+    url: /demos.html
+  - title: "Portfolio"
+    url: /portfolio.html
 
 # Collections
 collections:

@@ -15,23 +15,32 @@
   <body>
     <div class="wrapper">
       <header>
-        <!-- {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %} -->
         <h1 class="site-name"><a href="{{ "/" | absolute_url }}">{{ site.name | default: site.github.repository_name }}</a></h1>
-        <h2 class="site-title">{{ site.title | default: site.github.repository_name }}</h2>
-        <p>{{ site.description1 | default: site.github.project_tagline }}</p>
-        <p>{{ site.description2 | default: site.github.project_tagline }}</p>
-
-        <h3 class="site-contact-heading">{{ site.contact1 | default: "" }}</h3>
-        <p>{{ site.contact2 | default: "" }}</p>
-        <p><a href="{{ site.contact3 | default: '' }}">{{ site.contact3 | default: "" }}</a></p>
-        <p><a href="{{ site.contact4 | default: '' }}">{{ site.contact4 | default: "" }}</a></p>
-        <p><a href="{{ site.contact5 | default: '' }}">{{ site.contact5 | default: "" }}</a></p>
+        <nav class="site-nav">
+          <ul>
+            {% for item in site.nav %}
+              <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+        <h3 class="site-contact-heading">{{ site.heading | default: "" }}</h3>
+        <p>{{ site.description | default: "" }}</p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
+        
+        <div class="logo-links-container">
+          {% if site.logo %}
+            <img class="site-logo" src="{{ site.logo | relative_url }}" alt="Profile" />
+          {% endif %}
+          <div class="social-links">
+            <p><a href="{{ site.contact1 | default: '' }}">🌐 Website</a></p>
+            <p><a href="{{ site.contact2 | default: '' }}">✉️ Email</a></p>
+            <p><a href="{{ site.contact3 | default: '' }}">💼 LinkedIn</a></p>
+            <p><a href="{{ site.contact4 | default: '' }}">🤙 Call me</a></p>
+          </div>
+        </div>
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
@@ -45,7 +54,7 @@
         </ul>
         {% endif %}
       </header>
-      <section>
+      <section class="page-content">
 
       {{ content }}
 

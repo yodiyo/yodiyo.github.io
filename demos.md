@@ -3,8 +3,6 @@ title: "Demos - Full Stack Developer | WordPress, PHP & React"
 description: "Examples of work across WordPress, JavaScript, React, PHP, and modern web technologies"
 ---
 
-📂 [Demos](demos.md) | 💼 [Portfolio](portfolio.md)
-
 # 🚀 CODE DEMOS & EXAMPLES
 
 This repository contains examples of my work across WordPress, JavaScript, React, PHP, and modern web technologies.
@@ -243,19 +241,3 @@ If you don't know Swedish, it's the toggle in the top right corner that switches
 ---
 <br>
 <br>
-
-
-Built with passion for clean code and modern web technologies
-
-![GitHub followers](https://img.shields.io/github/followers/yodiyo?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yodiyo?style=social)
-
-**🤝 Let's Connect!**
-
-I'm always interested in discussing new opportunities and technical challenges
-
-🌐 [The Yorick Touch](https://theyoricktouch.com)
-
-✉️ [info@theyoricktouch.com](mailto:info@theyoricktouch.com)
-
-💼 [LinkedIn](https://linkedin.com/in/theyoricktouch)
