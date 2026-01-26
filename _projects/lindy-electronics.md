@@ -41,4 +41,4 @@ Build custom Gutenberg blocks to spec to develop a global brand experience for i
 
 ---
 
-[← Back to Portfolio](../PORTFOLIO.md)
+[← Back to Portfolio](../portfolio.md)

@@ -43,4 +43,4 @@ Check out how we aided Granit & Marmor in simplifying their purchase process, pr
 
 ---
 
-[← Back to Portfolio](../PORTFOLIO.md)
+[← Back to Portfolio](../portfolio.md)

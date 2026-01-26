@@ -43,4 +43,4 @@ The site was quickly put together with templates and resources that I had develo
 
 ---
 
-[← Back to Portfolio](../PORTFOLIO.md)
+[← Back to Portfolio](../portfolio.md)

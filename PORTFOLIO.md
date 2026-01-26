@@ -4,9 +4,7 @@ description: "Browse my portfolio of web development projects across WordPress, 
 layout: default
 ---
 
-📂 [Demos](README.md) | 💼 [Portfolio](PORTFOLIO.md)
-
-# 💼 Portfolio
+# 💼 PORTFOLIO
 
 Explore my work across WordPress, WooCommerce, React, and full-stack web development.
 
@@ -272,18 +270,3 @@ Explore my work across WordPress, WooCommerce, React, and full-stack web develop
 
 <br>
 <br>
-
-Built with passion for clean code and modern web technologies
-
-![GitHub followers](https://img.shields.io/github/followers/yodiyo?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yodiyo?style=social)
-
-**🤝 Let's Connect!**
-
-I'm always interested in discussing new opportunities and technical challenges
-
-🌐 [The Yorick Touch](https://theyoricktouch.com)
-
-✉️ [info@theyoricktouch.com](mailto:info@theyoricktouch.com)
-
-💼 [LinkedIn](https://linkedin.com/in/theyoricktouch)

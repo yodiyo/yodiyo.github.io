@@ -60,4 +60,4 @@ I scoped and built a custom block to enable users to choose to see product price
 
 ---
 
-[← Back to Portfolio](../PORTFOLIO.md)
+[← Back to Portfolio](../portfolio.md)
