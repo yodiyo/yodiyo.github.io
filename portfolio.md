@@ -10,6 +10,23 @@ Explore my work across WordPress, WooCommerce, React, and full-stack web develop
 
 <div class="portfolio-grid">
 
+<div class="portfolio-card">
+    <a href="projects/togethertrust">
+      <div class="card-image">
+        <img src="./assets/images/together-trust-20251101-desktop2.png" alt="Sage Advice">
+      </div>
+      <div class="card-content">
+        <h3>⌣ Together Trust</h3>
+        <p>Full WordPress rebuild with custom blocks, meta, templates, patterns, WP Interactivity API mega menus and filters. Plus major Core Web Vitals gains.</p>
+        <div class="card-badges">
+          <span class="badge">WordPress</span>
+          <span class="badge">Multisite</span>
+          <span class="badge">PHP</span>
+          <span class="badge">React</span>
+        </div>
+      </div>
+    </a>
+  </div>
   <div class="portfolio-card">
     <a href="projects/sage-advice">
       <div class="card-image">

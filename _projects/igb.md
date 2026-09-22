@@ -4,7 +4,7 @@ title: "IGB - iGaming Business"
 description: "WordPress multisite with advanced file-sharing system for gaming industry"
 date: 2024-01-04
 categories: [WordPress, Multisite, PHP, MySQL]
-image: "./assets/images/igb-desktop.webp"
+image: "/assets/images/igb-desktop.webp"
 external_link: "https://angrycreative.com/cases/igaming-business/"
 ---
 
@@ -15,7 +15,7 @@ external_link: "https://angrycreative.com/cases/igaming-business/"
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Multisite](https://img.shields.io/badge/Multisite-0073AA?style=flat&logo=wordpress&logoColor=white)
 
-![IGB Project](./assets/images/igb-desktop.webp)
+![IGB Project](../assets/images/igb-desktop.webp)
 
 ## Overview
 

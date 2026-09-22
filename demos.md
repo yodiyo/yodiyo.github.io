@@ -54,20 +54,13 @@ While some projects remain proprietary, I've shared what I can to demonstrate my
 
 ### 🧩 WordPress Custom Blocks and Plugins
 
-> **Demo Site Access:**
-> ```
-> 🌐 URL: theyoricktouch.com/wpdemos/wp-admin/
-> 👤 Username: demouser
-> 🔑 Password: Reachforthestars!
-> ```
-
 #### 🚫 Disable Blocks
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-**🔗 [GitHub Repository](https://github.com/yodiyo/yb-disable-blocks)** | **🔍 [Live Demo](https://theyoricktouch.com/wpdemos/wp-admin/site-health.php?tab=debug)**
+**🔗 [GitHub Repository](https://github.com/yodiyo/yb-disable-blocks)**
 
 **Features:**
 - 🎯 **Selective block removal** from Gutenberg editor
@@ -84,7 +77,7 @@ While some projects remain proprietary, I've shared what I can to demonstrate my
 ![WordPress API](https://img.shields.io/badge/WP--API-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Gutenberg](https://img.shields.io/badge/Gutenberg-0073AA?style=flat&logo=wordpress&logoColor=white)
 
-**🔗 [GitHub Repository](https://github.com/yodiyo/yb-trustpilot-reviews)** | **✏️ [Editor Demo](https://theyoricktouch.com/wpdemos/wp-admin/post.php?post=11&action=edit)**
+**🔗 [GitHub Repository](https://github.com/yodiyo/yb-trustpilot-reviews)**
 
 **Technical Implementation:**
 - ⚛️ **React components** in Gutenberg block editor
